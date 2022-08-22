@@ -37,6 +37,21 @@
           }
         }
       }
+    },
+    {
+      "type": "npm",
+      "script": "build-storybook",
+      "group": "build",
+      "problemMatcher": [],
+      "label": "npm: build-storybook",
+      "detail": "npm run docs:json && build-storybook"
+    },
+    {
+      "type": "npm",
+      "script": "ng",
+      "problemMatcher": [],
+      "label": "npm: ng",
+      "detail": "ng"
     }
   ]
 }

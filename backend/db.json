@@ -1,0 +1,16 @@
+{
+    "DadosCliente":[{
+        "id": 1,
+        "name":"Geovanna",
+        "idade": 54,
+        "cpf":56955577722
+
+        },{
+            "id": 2,
+        "name":"Arthur",
+        "idade": 13,
+        "cpf":9695556642
+
+        }
+    ]
+}

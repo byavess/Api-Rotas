@@ -1,0 +1,19 @@
+ http://localhost:3001/DadosCliente
+
+
+//POST  http://localhost:3001/DadosCliente HTTP/1.1Contente-type:application/json
+//{"nome": "Ruanna"}
+
+// quando clicar no send e criando um outro dado
+//PUT  http://localhost:3001/DadosCliente HTTP/1.1Contente-type:application/json
+//{"nome": "Ruanna"}
+
+######
+//deleta apenas o que ta no endereço final
+//DELETE  http://localhost:3001/DadosCliente/2 HTTP/1.1Contente-type:application/json
+//{"nome": "Ruanna"}
+
+#########
+//pega get  somente o o informando no final
+//GET  http://localhost:3001/DadosCliente/1 HTTP/1.1Contente-type:application/json
+//{"nome": "Ruanna"}
